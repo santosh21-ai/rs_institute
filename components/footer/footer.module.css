@@ -1,0 +1,13 @@
+.bgFacebook {
+  background-color: #3b5998;
+}
+.bgFacebook:hover {
+  background-color: #344e86;
+}
+
+.bgTwitter {
+  background-color: #1da1f2;
+}
+.bgTwitter:hover {
+  background-color: #0d95e8;
+}
