@@ -20,16 +20,16 @@ function Footer() {
                 19K users are using FWR blocks and making their life easy.
               </h4>
               <p className="text-gray-400">
-                We have carefully crafted the blocks to suit to everyone's need.
+                We have carefully crafted the blocks to suit to everyones need.
               </p>
               <div className="mt-4">
                 <button
-                  className={`${styles.bgFacebook} py-2 px-4 text-white rounded mt-2 transition-colors duration-300`}
+                  className={` py-2 px-4 text-white rounded mt-2 transition-colors duration-300`}
                 >
                   <i className="fab fa-facebook-f mr-2"></i> Follow
                 </button>
                 <button
-                  className={`${styles.bgTwitter} py-2 px-4 text-white rounded ml-2 mt-2 transition-colors duration-300`}
+                  className={` py-2 px-4 text-white rounded ml-2 mt-2 transition-colors duration-300`}
                 >
                   <span className="fab fa-twitter mr-2"></span> Follow
                   @freeweb19
